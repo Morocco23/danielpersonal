@@ -1,1 +1,1 @@
-My first readme
+console application programmed in C
